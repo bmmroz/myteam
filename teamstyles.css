@@ -1,0 +1,21 @@
+
+/*Styles the jumbotron*/
+.jumbotron img {
+  height: 300px;
+}
+
+.jumbotron {
+  background-image: url(wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  font-weight: bold;
+  color: white;
+}
+
+.subtitle {
+  font-weight: bold;
+  color: white;
+}
